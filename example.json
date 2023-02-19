@@ -1,0 +1,56 @@
+[
+    {
+        "event": "mouse",
+        "delay": 1.0,
+        "position": [
+            802,
+            449
+        ]
+    },
+    {
+        "event": "mouse",
+        "delay": 1.0,
+        "position": [
+            806,
+            762
+        ]
+    },
+    {
+        "event": "mouse",
+        "delay": 0.0,
+        "position": [
+            903,
+            790
+        ]
+    },
+    {
+        "event": "mouse",
+        "delay": 0.0,
+        "position": [
+            706,
+            263
+        ]
+    },
+    {
+        "event": "keyboard",
+        "delay": 0.0,
+        "type": "txt",
+        "text_content": "stella"
+    },
+    {
+        "event": "mouse",
+        "delay": 0.0,
+        "position": [
+            799,
+            398
+        ]
+    },
+    {
+        "event": "mouse",
+        "delay": 0.0,
+        "position": [
+            798,
+            788
+        ]
+    }
+]
